@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "name": "Task on React",
+      "day": "Jul 2nd at 05:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "name": "Task on Kotlin",
+      "day": "Jul 10th at 05: 30pm",
+      "reminder": true
+    },
+    {
+      "name": "New Task",
+      "day": "Tomorroww",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "name": "New taskkk",
+      "day": "Nov 2021",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
